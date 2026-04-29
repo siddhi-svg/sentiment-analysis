@@ -1,4 +1,6 @@
-# 🎬 Sentiment Analysis Web App
+<p align="center">
+  <h1>🎬 Sentiment Analysis Web App</h1>
+</p>
 
 🚀 **Live Demo:** https://siddh-sentiment-analysis.streamlit.app/
 
